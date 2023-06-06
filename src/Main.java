@@ -7,10 +7,11 @@
 public class Main
 {
     /**
-     *Entry point for the application
+     *  Entry point for the application
      *
      * @param args the comand line args
      */
+
     public static void main(String[] args)
     {
         System.out.println("Hello world!");
